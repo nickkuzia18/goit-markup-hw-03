@@ -31,9 +31,8 @@ body {
 }
 
 .container {
-    width: 1128px;
-    padding-left: 15px;
-    padding-right: 15px;
+    max-width: 1128px;
+    padding: 0 15px;
     margin: 0 auto;
     outline: 2px solid red;
 }
